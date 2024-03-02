@@ -14,7 +14,7 @@ const studentName = "Valentine OO";
 
 const grades = [90, 80.7, 100, 70, 85];
 
-/**
+/**Tod object
  * @type {{id: number|string, text: string}}
  */
 
